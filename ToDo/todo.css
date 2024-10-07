@@ -1,0 +1,40 @@
+div{
+    padding: 2rem;
+    width: 500px;
+    background: rgb(46, 46, 150);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 5px solid rgb(99, 147, 248);
+    margin: auto;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+input{
+text-align: center;
+background: white;
+margin-left: 150px;
+padding: 0.3rem;
+}
+button{
+    padding: 0.3rem;
+    font-weight: 700;
+}
+
+ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(99, 147, 248);
+    font-size: larger;
+    padding: 10px;
+}
+.heading{
+    font-weight: 900;
+}
+
+
